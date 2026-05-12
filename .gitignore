@@ -1,0 +1,19 @@
+# Local IDE / preview config
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node (caso seja adicionado depois)
+node_modules/
